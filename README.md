@@ -1,5 +1,5 @@
 # COMP424F20
-COMP 424 Computer System Security
+COMP 424 | Computer System Security
 
 **Course Objectives** 
 
