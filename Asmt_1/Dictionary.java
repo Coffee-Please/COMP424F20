@@ -1,3 +1,7 @@
+// Dictionary.java
+// Source [1]: https://github.com/eat41899/CipherText 
+//*******************************************************************************************************************************************
+
 import java.util.ArrayList;
 import java.io.IOException;
 import java.io.*;
